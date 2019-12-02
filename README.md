@@ -1,5 +1,7 @@
-# LinkedWiki-Docker
-Dockerfile for wikimedia extension LinkedWiki
+# LinkedWiki-Docker [![Docker Automated build](https://img.shields.io/docker/automated/antoinede/linked-wiki)](https://hub.docker.com/repository/docker/antoinede/linked-wiki)
+
+Dockerfile for wikimedia extension LinkedWiki. Available on [docker hub](https://hub.docker.com/repository/docker/antoinede/linked-wiki).
+
 
 This extension makes it possible to embbed sparql query into a wikibase instance.
 
